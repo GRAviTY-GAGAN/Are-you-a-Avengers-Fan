@@ -1,5 +1,3 @@
-https://replit.com/@gaganbn1999/Are-you-a-Marvel-Avengers-fan-1?embed=1&output=1
-
 var readlineSync = require("readline-sync");
 var score = 0;
 var userInput = readlineSync.question("Hi! what is your name? ")
